@@ -11,3 +11,7 @@ Domain Path: /languages
 */
 
 echo 'testing github repo';
+$num1 = 20;
+$num2 = 30;
+$num3 = 30 / 2;
+echo $num3;
