@@ -9,3 +9,8 @@ Text Domain: kwyhtest
 Domain Path: /languages
     Copyright (C) 2018 Digital Agency Corp.
 */
+
+$num1 = 20;
+$num2 = 30;
+$num3 = 30 / 2;
+echo $num3;
